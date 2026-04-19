@@ -1,6 +1,6 @@
 #deployment.yaml
 #namespace: devops
-replicaCount: 2
+replicaCount: 1
 image:
   repository: 703172062781.dkr.ecr.ap-south-1.amazonaws.com/aws-project-rm
   tag: latest
